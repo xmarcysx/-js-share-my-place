@@ -9,7 +9,7 @@
     "build": "webpack",
     "build:prod": "webpack --config webpack.config.prod.js"
   },
-  "author": "Maximilian Schwarzmüller",
+  "author": "Marcin Chowaniec",
   "license": "ISC",
   "browserslist": "> 0.5%",
   "devDependencies": {
